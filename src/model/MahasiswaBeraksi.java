@@ -22,5 +22,6 @@ public class MahasiswaBeraksi {
         Mahasiswa mahasiswa2 =new Mahasiswa("19630975","Anastasya","14-10-2000");
         mahasiswa2.tampilkanAtribut();
 
+
     }
 }
