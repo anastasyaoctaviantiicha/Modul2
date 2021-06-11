@@ -11,9 +11,9 @@ public class MahasiswaBeraksi {
         SimpleDateFormat simpleDateFormat =new SimpleDateFormat(polaTanggal);
 
         Mahasiswa mahasiswa = new Mahasiswa();
-        mahasiswa.npm = "19630460";
-        mahasiswa.nama = "Yuniati";
-        mahasiswa.tanggalLahir = simpleDateFormat.parse("22-02-2000");
+        mahasiswa.npm = "19630975";
+        mahasiswa.nama = "Anastasya";
+        mahasiswa.tanggalLahir = simpleDateFormat.parse("14-10-2000");
 
         mahasiswa.tampilkanAtribut();
         mahasiswa.menyapa();
