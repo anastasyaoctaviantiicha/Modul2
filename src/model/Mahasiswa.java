@@ -26,6 +26,7 @@ public class Mahasiswa {
         System.out.println("Hai nama aku : " + this.nama);
     }
 
+
     public Mahasiswa(String npm, String nama, String tanggalLahir) {
         this.npm = npm;
         this.nama = nama;
