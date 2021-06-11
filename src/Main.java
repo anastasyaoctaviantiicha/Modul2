@@ -6,5 +6,6 @@ public class Main {
         m1.tampilkanAtribut();
         System.out.println(m1.getNama());
 
+
     }
 }
